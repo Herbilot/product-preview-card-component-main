@@ -15,15 +15,17 @@ small{
   text-decoration: line-through;
   color: hsl(228, 12%, 48%);
   margin-left: 10px;
-  
+
 }
 .text{
   background-color: hsl(0, 0%, 100%);
 
 }
 .desc{
-  font-size: 14px;
+  font-family: "Montserrat";
+  font-size: 13px;
   color: hsl(228, 12%, 48%);
+  font-weight: 500;
 
 }
 .img{
